@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\BEGUS\\BEGUS.csproj",
+      "projectUniqueName": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\game-tracker\\BEGUS\\BEGUS.csproj",
       "projectName": "BEGUS",
-      "projectPath": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\BEGUS\\BEGUS.csproj",
+      "projectPath": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\game-tracker\\BEGUS\\BEGUS.csproj",
       "packagesPath": "C:\\Users\\TUF GUY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\BEGUS\\obj\\",
+      "outputPath": "C:\\Users\\TUF GUY\\source\\repos\\BEGUS\\game-tracker\\BEGUS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TUF GUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
